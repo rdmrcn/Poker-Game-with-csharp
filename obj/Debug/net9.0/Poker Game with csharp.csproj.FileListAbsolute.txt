@@ -1,0 +1,14 @@
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.AssemblyInfoInputs.cache
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.AssemblyInfo.cs
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.csproj.CoreCompileInputs.cache
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\bin\Debug\net9.0\Poker Game with csharp.exe
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\bin\Debug\net9.0\Poker Game with csharp.deps.json
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\bin\Debug\net9.0\Poker Game with csharp.runtimeconfig.json
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\bin\Debug\net9.0\Poker Game with csharp.dll
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\bin\Debug\net9.0\Poker Game with csharp.pdb
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.dll
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\refint\Poker Game with csharp.dll
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.pdb
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\Poker Game with csharp.genruntimeconfig.cache
+C:\Users\rdemi\RiderProjects\Poker Game with csharp\Poker Game with csharp\obj\Debug\net9.0\ref\Poker Game with csharp.dll
